@@ -1,6 +1,6 @@
 <Alloy>
 <Window class="container" id="acceuil">
-	<Button id="importe">Synchronisation</Button>
+	<Button id="importe" onClick="closeme">Synchronisation</Button>
 	<Button id="authentification">authentification</Button>
 	
 </Window>
