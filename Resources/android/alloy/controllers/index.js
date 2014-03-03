@@ -1,6 +1,7 @@
 function Controller() {
     function doClick() {
-        $.acceuil.open();
+        var w = Alloy.createController("accueil").getView();
+        w.open();
     }
     require("alloy/controllers/BaseController").apply(this, Array.prototype.slice.call(arguments));
     this.__controllerPath = "index";

@@ -2,6 +2,6 @@
 <Window class="container" id="acceuil">
 	<Button id="importe" onClick="closeme">Synchronisation</Button>
 	<Button id="authentification">authentification</Button>
-	
+	gfgfg
 </Window>
 </Alloy>
