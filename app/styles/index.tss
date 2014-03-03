@@ -1,0 +1,25 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#FF7F50"
+} 
+"importe":{
+	
+	top:"30%",
+	left:"30%",
+	width: "30%",
+	height: "10",
+	color:"#6495ED"
+}
+ 
+"authentification":{
+	
+	top:"45%",
+	left:"30%",
+	width: "30%",
+	height: "10",
+	color:"#6495ED"
+}
